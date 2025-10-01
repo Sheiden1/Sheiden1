@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur Gonçalves, a frontend developer exploring the power of AI</h1>
+<h1 align="center">Arthur Gonçalves</h1>
 <h3 align="center">Frontend developer from Brazil | Passionate about building modern interfaces and AI-powered applications</h3>
 
 - 🔭 I’m currently working on [FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)
