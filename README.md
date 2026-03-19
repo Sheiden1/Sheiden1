@@ -1,15 +1,30 @@
-<h1 align="center">Arthur Gonçalves</h1>
-<h3 align="center">Frontend developer from Brazil | Passionate about building modern interfaces and AI-powered applications</h3>
+<h1>Arthur Gonçalves</h1>
+<p>Full-stack developer &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; AI-powered apps</p>
 
-- 🔭 I’m currently working on [FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)
+---
 
-- 🌱 I’m currently learning **React, React Native, TypeScript, Node.js, Git, AI APIs**
+### Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sheiden1](https://github.com/Sheiden1)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 💬 Ask me about **React, React Native, TypeScript, frontend performance and AI-powered apps**
+---
 
-- 📫 How to reach me **facul.agoncalves@gmail.com**
+### Em construção
 
-Instagram: @arthurgoncalvees 
- 
+> **[FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)** — plataforma de flashcards com IA para otimizar revisão e retenção de conteúdo.
+
+---
+
+### Links
+
+- **Projetos:** [github.com/Sheiden1](https://github.com/Sheiden1)
+- **Contato:** facul.agoncalves@gmail.com
+- **Instagram:** [@arthurgoncalvees](https://instagram.com/arthurgoncalvees)
+
+---
+
+*Aberto a oportunidades · Frontend, Fullstack ou projetos com IA*
