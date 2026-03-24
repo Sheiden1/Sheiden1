@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arthur Gonçalves
-**Full-Stack Developer · React · TypeScript · Node.js · AI apps**
+**Full-Stack Developer · React · TypeScript · Node.js · Next JS**
 
 [![Email](https://img.shields.io/badge/dev.agoncalves@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.agoncalves@gmail.com)
 [![Instagram](https://img.shields.io/badge/@arthurgoncalvees-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arthurgoncalvees)
