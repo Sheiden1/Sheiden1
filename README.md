@@ -1,16 +1,19 @@
 <div align="center">
 
 # Arthur Gonçalves
-**Full-Stack Developer · React · TypeScript · Node.js · Next JS**
 
-[![Email](https://img.shields.io/badge/dev.agoncalves@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.agoncalves@gmail.com)
-[![Instagram](https://img.shields.io/badge/@arthurgoncalvees-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arthurgoncalvees)
+**Full-Stack Developer**
+
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.agoncalves@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arthurgoncalvees)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI-powered+apps+%26+LLM+integrations;React+%7C+TypeScript+%7C+Node.js;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Desenvolvedor full-stack com foco em produtos web rápidos e integração com IA. Atualmente construindo o **[FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)** — plataforma educacional que gera flashcards com IA.
+Full-stack developer with a focus on building scalable web products and integrating AI into real-world applications. I work across the entire stack from responsive interfaces to robust back-end APIs with a strong interest in LLM-powered features, automation, and developer experience.
 
 ---
 
@@ -27,8 +30,6 @@ Desenvolvedor full-stack com foco em produtos web rápidos e integração com IA
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sheiden1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheiden1&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
-</div>
+### Featured Project
+
+**[FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)** — AI-powered educational platform that automatically generates flashcards from any content, helping students study smarter with LLM-driven personalization.
