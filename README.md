@@ -29,7 +29,3 @@ Full-stack developer with a focus on building scalable web products and integrat
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 
 ---
-
-### Featured Project
-
-**[FlashcardsLab](https://github.com/Sheiden1/flashcardslab-ai)** — AI-powered educational platform that automatically generates flashcards from any content, helping students study smarter with LLM-driven personalization.
