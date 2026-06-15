@@ -1,8 +1,6 @@
 # Arthur Gonçalves
 
-Full-stack developer @ [Triade](https://github.com/Sheiden1/triade) — React, Next.js, Node.js, TypeScript.
-
-Building web products and integrating AI into real applications.
+Full-stack developer — React, Next.js, Node.js, TypeScript.
 
 ---
 
